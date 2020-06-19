@@ -11,6 +11,8 @@
 *本製品はCQ出版社発行のCQ ham radio 2017年１月号との連動企画製品です。*  
 *回路動作などの、より詳しい説明は、CQ ham radio 2017年１月号の記事をご覧ください。*  
 
+## [製品ページ](https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1702/)
+
 ## [組み立てマニュアル](http://einstlab.web.fc2.com/Kit/GermaniumKit.pdf)
 
 製品仕様
